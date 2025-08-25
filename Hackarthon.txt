@@ -1,0 +1,33 @@
+HACKATHON : it is a challenge to complete a task within time period
+**DevOps=Development+Operations
+Developers- Who Writes Code
+Operations-Who Develop/manage systems
+--> Work together, instead of working in silos
+⦁	code is automatically tested and deployed
+⦁	it reduces time and bugs 
+
+
+REAL TIME EXAMPLE:
+imagine you're building a mobile app like swiggy.
+⦁	the developer writes code to add "track my order"" feature.
+⦁	without devops: Developer gives code to ops team-->they manually deploy-->bugs happen-->delay
+⦁	with devops: code is automatically tested and deployed--> customers get updates faster and safely.
+DevOps Helps You:
+⦁	release features faster(Like adding new payment methods in zomato)
+⦁	fix bugs quickly
+⦁	automate repetitive tasks 
+
+
+EIGHT PHASES OF DEVELOPMENT
+1.	PLAN:define what to build
+2.	DEVELOP: Writes the code
+3.	BUILD: compile code into deployable format
+4.	TEST: check for bugs automatically
+5.	RELEASE: approve the build for deployment
+6.	DEPLOY: push app to servers or app store
+7.	OPERATE: keep app running,fix any issues
+8.	MONITOR: analyze performance and feedback 
+
+GitHub Basics:
+git--version control system(local)
+github--online platforms to store git projects
