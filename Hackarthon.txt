@@ -1,4 +1,4 @@
-HACKATHON : it is a challenge to complete a task within time period
+Sameera  HACKATHON : it is a challenge to complete a task within time period
 **DevOps=Development+Operations
 Developers- Who Writes Code
 Operations-Who Develop/manage systems
@@ -30,4 +30,5 @@ EIGHT PHASES OF DEVELOPMENT
 
 GitHub Basics:
 git--version control system(local)
+
 github--online platforms to store git projects
